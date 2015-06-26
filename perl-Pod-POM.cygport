@@ -2,7 +2,7 @@ CPAN_AUTHOR=andrewf
 inherit perl
 
 NAME="perl-Pod-POM"
-VERSION=0.27
+VERSION=0.29
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl Pod Object Model module"
@@ -14,3 +14,5 @@ and the nodes examined, printed or otherwise manipulated.  In addition,
 Pod::POM supports and provides view objects which can automatically traverse
 the tree, or section thereof, and generate an output representation in one
 form or another."
+
+ARCH=noarch
